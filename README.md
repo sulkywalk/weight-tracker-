@@ -65,11 +65,12 @@ WEIGHTTRACKER
 
 
 
+
 ---
 
 ## ▶️ Running the Project
 
-### **1. Run the backend**
+### **1. Run the backend** 
 
 ```
 cd backend
